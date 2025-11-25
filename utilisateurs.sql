@@ -36,9 +36,6 @@ CREATE TABLE `utilisateurs` (
 -- Déchargement des données de la table `utilisateurs`
 --
 
-INSERT INTO `utilisateurs` (`id_user`, `user`) VALUES
-(1, 'Matthieu');
-
 --
 -- Index pour les tables déchargées
 --
