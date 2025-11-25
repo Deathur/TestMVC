@@ -1,1 +1,1 @@
-<p>c'est moi</p>
+<p>C'est moi <?php echo $users[0]['user'] ?></p>

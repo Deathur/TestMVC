@@ -1,3 +1,6 @@
+<?php
+    include_once "Models/connectBDD.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -9,6 +12,7 @@
         <ul>
             <li><a href="?action=bienvenu">Bienvenu</a></li>
             <li><a href="?action=cemoi">C'est moi</a></li>
+            <li><a href="?action=braws">Mon braws</a></li>
         </ul>
         <?php
         include "./Controllers/choixPage.php";

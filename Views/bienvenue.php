@@ -1,1 +1,1 @@
-<p>bienvenu</p>
+<p>Bienvenue <?php echo $users[0]['user'] ?></p>
